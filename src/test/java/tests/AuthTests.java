@@ -9,7 +9,7 @@ import static io.qameta.allure.Allure.step;
 
 @Epic("Личный кабинет")
 @Feature("Авторизация пользователей")
-@Owner("ТВОЙ_НИК") // Обязательно смени на свой
+@Owner("kozherka")
 public class AuthTests {
 
     @Test
